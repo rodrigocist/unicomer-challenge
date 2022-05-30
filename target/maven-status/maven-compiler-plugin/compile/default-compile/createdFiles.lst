@@ -6,3 +6,4 @@ com\unicomer\customer\models\Customer.class
 com\unicomer\customer\controllers\CustomerController.class
 com\unicomer\customer\services\impl\CustomerServiceImpl.class
 com\unicomer\customer\config\SwaggerConfig.class
+com\unicomer\customer\dto\CustomerDto.class
